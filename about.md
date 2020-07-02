@@ -27,5 +27,3 @@ qq: 1301824611
 <p> 
 
 
-{% include comments.html %}
-
